@@ -1,0 +1,285 @@
+{
+  "users": [
+    {
+      "id_number": "1112123",
+      "name": "",
+      "email": "leen@leen.com",
+      "phone_number": "",
+      "password": "leen",
+      "medicines": [
+        1,
+        2,
+        3
+      ],
+      "id": 1
+    }
+  ],
+  "medicines": [
+    {
+      "id": 1,
+      "name": "Exforge",
+      "scientific_name": "Amlodipine / Valsartan",
+      "price": 123,
+      "available_in": [
+        1,
+        2
+      ],
+      "use_for": "دواء ضغط",
+      "photo": "image1"
+    },
+    {
+      "id": 2,
+      "name": "Co-Diovan",
+      "scientific_name": "Valsartan / Hydrochlorothiazide",
+      "price": 123,
+      "available_in": [],
+      "use_for": "دواء ضغط",
+      "photo": "image2"
+    },
+    {
+      "id": 3,
+      "name": "Disothiazide",
+      "scientific_name": "Hydrochlorothiazide",
+      "price": 123,
+      "available_in": [
+        4
+      ],
+      "use_for": "مدر بول",
+      "photo": "image3"
+    },
+    {
+      "id": 4,
+      "name": "Normiten",
+      "scientific_name": "Atenolol",
+      "price": 123,
+      "available_in": [
+        2
+      ],
+      "use_for": "",
+      "photo": "image4"
+    },
+    {
+      "id": 5,
+      "name": "Atacand-Plus",
+      "scientific_name": "Candesartan Cilexetil Hydrochlorothiazide",
+      "price": 123,
+      "available_in": [
+        1,
+        4
+      ],
+      "use_for": "",
+      "photo": "image5"
+    },
+    {
+      "id": 6,
+      "name": "Tritace",
+      "scientific_name": "Ramipril",
+      "price": 123,
+      "available_in": [
+        1,
+        2
+      ],
+      "use_for": "ضغط",
+      "photo": "image6"
+    },
+    {
+      "id": 7,
+      "name": "Eucreas",
+      "scientific_name": "Vildagliptin / Matformin",
+      "price": 123,
+      "available_in": [
+        3,
+        4
+      ],
+      "use_for": "دواء معدة",
+      "photo": "image7"
+    },
+    {
+      "id": 8,
+      "name": "Lipidex",
+      "scientific_name": "Atorvastatin",
+      "price": 123,
+      "available_in": [
+        4
+      ],
+      "use_for": "دهنيات",
+      "photo": "image8"
+    },
+    {
+      "id": 9,
+      "name": "Amaryl",
+      "scientific_name": "Glimepiride",
+      "price": 123,
+      "available_in": [
+        1
+      ],
+      "use_for": "دواء سكري",
+      "photo": "image9"
+    },
+    {
+      "id": 10,
+      "name": "SitaGlu",
+      "scientific_name": "Sitagliptin",
+      "price": 123,
+      "available_in": [
+        1,
+        2,
+        4
+      ],
+      "use_for": " دواء سكري",
+      "photo": "image10"
+    },
+    {
+      "id": 11,
+      "name": "Trovan10",
+      "scientific_name": "Atorvastatin",
+      "price": 123,
+      "available_in": [
+        1,
+        3,
+        4
+      ],
+      "use_for": "دهنيات",
+      "photo": "image11"
+    },
+    {
+      "id": 12,
+      "name": "GlucoCare",
+      "scientific_name": "Glibenclamide",
+      "price": 123,
+      "available_in": [
+        3
+      ],
+      "use_for": " دواء سكري",
+      "photo": "image12"
+    },
+    {
+      "id": 13,
+      "name": "Inflicta",
+      "scientific_name": "Dapagliflozin",
+      "price": 123,
+      "available_in": [
+        4
+      ],
+      "use_for": " دواء سكري",
+      "photo": "image13"
+    },
+    {
+      "id": 14,
+      "name": "Valsadepine",
+      "scientific_name": "Valsartan / Amlodipine / Hydrochlorothiazide",
+      "price": 123,
+      "available_in": [
+        2
+      ],
+      "use_for": " دواء ضغط",
+      "photo": "image14"
+    },
+    {
+      "id": 15,
+      "name": "Galvus",
+      "scientific_name": "Vildaglipin",
+      "price": 123,
+      "available_in": [
+        1
+      ],
+      "use_for": " دواء سكري",
+      "photo": "image15"
+    },
+    {
+      "id": 16,
+      "name": "Crestor",
+      "scientific_name": "Rosuvastatin",
+      "price": 123,
+      "available_in": [
+        2
+      ],
+      "use_for": "دهنبات",
+      "photo": "image16"
+    },
+    {
+      "id": 17,
+      "name": "Fusid",
+      "scientific_name": "Furosemide",
+      "price": 123,
+      "available_in": [
+        2,
+        4
+      ],
+      "use_for": "مدر بول",
+      "photo": "image17"
+    },
+    {
+      "id": 18,
+      "name": "Ankle",
+      "scientific_name": "Glimepiride",
+      "price": 123,
+      "available_in": [
+        3,
+        4
+      ],
+      "use_for": "معدات تأهيل",
+      "photo": "image18"
+    },
+    {
+      "id": 19,
+      "name": "Kneesport",
+      "scientific_name": "Glimepiride",
+      "price": 123,
+      "available_in": [
+        1,
+        2,
+        4
+      ],
+      "use_for": "معدات تأهيل",
+      "photo": "image19"
+    },
+    {
+      "id": 20,
+      "name": "wristright",
+      "scientific_name": "Glimepiride",
+      "price": 123,
+      "available_in": [],
+      "use_for": "معدات تأهيل",
+      "photo": "image20"
+    }
+  ],
+  "pharmacies": [
+    {
+      "id": 1,
+      "name": "X pharmacy",
+      "city": "hebron",
+      "email": "Xphar@gmail.com",
+      "password": "x1234",
+      "num": "059000000",
+      "location": "1,23,45"
+    },
+    {
+      "id": 2,
+      "name": "Z pharmacy",
+      "city": "Ramallah",
+      "email": "Zphar@gmail.com",
+      "password": "x1234",
+      "num": "059000000",
+      "location": "1,23,45"
+    },
+    {
+      "id": 3,
+      "name": "Y pharmacy",
+      "city": "Nablus",
+      "email": "Yphar@gmail.com",
+      "password": "x1234",
+      "num": "059000000",
+      "location": "1,23,45"
+    },
+    {
+      "id": 4,
+      "name": "T pharmacy",
+      "city": "Nablus",
+      "email": "Yphar@gmail.com",
+      "password": "x1234",
+      "num": "059000000",
+      "location": "1,23,45"
+    }
+  ]
+}
